@@ -27,7 +27,7 @@ Você pode indicar blockquotes com o símbolo >.
 
 >Nas palavras de Abraham Lincoln:
 
-> >Pardon My French
+> <code>></code>Pardon My French
 
 ## Estilos de texto
 
@@ -48,7 +48,7 @@ Você pode fazer uma lista desordenada precedendo itens da lista ou com um * ou 
 >* Item
 >* Item
 >* Item
->
+
 >- Artigo
 >- Artigo
 >- Artigo
